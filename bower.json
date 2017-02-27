@@ -1,0 +1,21 @@
+{
+  "name": "screenfull",
+  "description": "Simple wrapper for cross-browser usage of the JavaScript Fullscreen API, which lets you bring the page or any element into fullscreen.",
+  "main": "dist/screenfull.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "browser",
+    "fullscreen"
+  ],
+  "homepage": "https://github.com/leozcx/screenfull.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
